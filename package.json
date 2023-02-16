@@ -1,0 +1,25 @@
+{
+  "name": "blog",
+  "version": "0.0.1",
+  "description": "Web of wangdm",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vitepress dev .",
+    "build": "vitepress build .",
+    "preview": "vitepress preview ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wangdm/web.wangdm.cn.git"
+  },
+  "author": "wangdm",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wangdm/web.wangdm.cn/issues"
+  },
+  "homepage": "https://web.wangdm.cn",
+  "devDependencies": {
+    "vitepress": "^1.0.0-alpha.45",
+    "vue": "^3.2.45"
+  }
+}
